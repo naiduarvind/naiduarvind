@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I'm an Engineering Manager @ [Stripe](https://stripe.com). Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](https://mindvalley.com), and some Silicon Valley based firms.
 
-- 💬 Ask me about: Scala, Java, Performance Tuning, Formal Methods, C4 Model, Site Reliability Engineering, SLAs/SLOs
 - 😄 Pronouns: he/him
 - 🌍 [Website](https://thebility.engineer)
+- 📫 How to reach me: https://thebility.engineer/contact/
+- 🌱 I’m currently learning TLA+, Alloy, and FinOps
+- 💬 Ask me about: Scala, Java, Performance Tuning, Formal Methods, C4 Model, Site Reliability Engineering, SLAs/SLOs
+- ⚡ Fun fact: I am a professional racer and a member of the [VP Engineers Pod](https://www.downleft.com/vpeng-leaders/)
