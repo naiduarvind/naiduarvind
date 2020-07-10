@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an Engineering Manager @ Stripe. Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](https://mindvalley.com), and some Silicon Valley based firms.
+I'm an Engineering Manager @ [Stripe](https://stripe.com). Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](https://mindvalley.com), and some Silicon Valley based firms.
 
 - 💬 Ask me about: Scala, Java, Performance Tuning, Formal Methods, C4 Model, Site Reliability Engineering, SLAs/SLOs
 - 😄 Pronouns: he/him
