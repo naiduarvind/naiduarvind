@@ -1,4 +1,7 @@
+<img src='https://thebility.engineer/images/about-me.jpg' />
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 [![Twitter](https://img.shields.io/twitter/follow/rvine_naidu?style=social)](https://twitter.com/rvine_naidu)
 [![Linkedin](https://img.shields.io/badge/-Arvind%20Naidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naiduarvind/)](https://www.linkedin.com/in/naiduarvind/)
 
