@@ -13,3 +13,7 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 - 🌱 I’m currently learning TLA+, Alloy, DDD, Event Storming, Event Forming and FinOps
 - 💬 Ask me about: Go, Scala, Java, Performance Tuning, Formal Methods, C4 Model, Site Reliability Engineering, SLOs/SLIs
 - ⚡ Fun fact: I am a professional racer, member of [VP Engineers Pod](https://www.downleft.com/vpeng-leaders/) and [FinOps Foundation](https://www.finops.org/)
+
+📝Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
