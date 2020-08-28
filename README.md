@@ -23,3 +23,6 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 - [Leadership: First Quarter as an SRE](https://thebility.engineer/posts/first-quarter-as-an-sre/)
 - [FinOps: Making The Invisible Visible - Costs](https://thebility.engineer/posts/making-the-invisible-visible-costs/)
 <!-- BLOG:END -->
+
+[![Arvind's Github Stats](https://github-readme-stats.vercel.app/api?username=naiduarvind)](https://github.com/naiduarvind/github-readme-stats)
+
