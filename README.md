@@ -1,4 +1,4 @@
-<div style="text-align:center"><img width="42" height="42" src="https://thebility.engineer/images/about-me.jpg" /></div>
+<div style="text-align:center"><img width="640" height="480" src="https://thebility.engineer/images/about-me.jpg" /></div>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
