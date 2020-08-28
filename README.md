@@ -16,5 +16,5 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 
 ## 📝Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
