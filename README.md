@@ -17,4 +17,9 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 ## 📝Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Implementation: Bazel as a Build System](https://thebility.engineer/posts/implementation-bazel-as-build-system/)
+- [Workstation: Embracing Portability (WIP)](https://thebility.engineer/posts/workstation-embracing-portability-wip/)
+- [Presentation: Serializing Culture by Kelsey Hightower](https://thebility.engineer/posts/presentation-serializing-culture-into-continuous-delivery-by-kelsey-hightower/)
+- [Leadership: First Quarter as an SRE](https://thebility.engineer/posts/first-quarter-as-an-sre/)
+- [FinOps: Making The Invisible Visible - Costs](https://thebility.engineer/posts/making-the-invisible-visible-costs/)
 <!-- BLOG:END -->
