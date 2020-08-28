@@ -24,5 +24,5 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 - [FinOps: Making The Invisible Visible - Costs](https://thebility.engineer/posts/making-the-invisible-visible-costs/)
 <!-- BLOG:END -->
 
-<img align="left" alt="The (\*)bility Engineer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naiduarvind&show_icons=true&hide_border=true" />
+<img align="center" alt="The (\*)bility Engineer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naiduarvind&show_icons=true&hide_border=true" />
 
