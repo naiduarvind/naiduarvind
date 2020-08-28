@@ -1,5 +1,7 @@
 <div style="text-align:center"><img width="640" height="480" src="https://thebility.engineer/images/about-me.jpg" /></div>
 
+<img align="center" height="1024" width="720" src="https://thebility.engineer/images/about-me.jpg">
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter](https://img.shields.io/twitter/follow/rvine_naidu?style=social)](https://twitter.com/rvine_naidu)
