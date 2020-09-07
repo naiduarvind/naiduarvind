@@ -18,3 +18,4 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://thebility.engineer/rss.xml"
+          max_post_count: 10
