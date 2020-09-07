@@ -17,11 +17,11 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 ### 📝 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Implementation: Ubiquitous Language for Observability (WIP)](https://thebility.engineer/posts/implementation-ubiquitous-language-for-observability-wip/)
+- [Situated Software: Contextual Highlighting for Semantic Search](https://thebility.engineer/posts/situated-software-contextual-highlighting-for-semantic-search/)
+- [Concept: SLO-aware Circuit Breakers (WIP)](https://thebility.engineer/posts/concept-slo-aware-circuit-breakers-wip/)
+- [Concept: EngViz in Production using eBPF (WIP)](https://thebility.engineer/posts/concept-engviz-in-production-using-ebpf/)
 - [Implementation: Bazel as a Build System (WIP)](https://thebility.engineer/posts/implementation-bazel-as-build-system/)
-- [Workstation: Embracing Portability (WIP)](https://thebility.engineer/posts/workstation-embracing-portability-wip/)
-- [Presentation: Serializing Culture by Kelsey Hightower](https://thebility.engineer/posts/presentation-serializing-culture-into-continuous-delivery-by-kelsey-hightower/)
-- [Leadership: First Quarter as an SRE](https://thebility.engineer/posts/first-quarter-as-an-sre/)
-- [FinOps: Making The Invisible Visible - Costs](https://thebility.engineer/posts/making-the-invisible-visible-costs/)
 <!-- BLOG:END -->
 
 <img align="center" alt="The (\*)bility Engineer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naiduarvind&show_icons=true&hide_border=true" />
