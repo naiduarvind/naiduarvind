@@ -17,6 +17,7 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 ### 📝 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Quick Tip: SecretHub with AWS Lambda (Go) using CDK](https://thebility.engineer/posts/quick-tip-secrethub-with-aws-lambda-go-using-cdk/)
 - [Implementation: Ubiquitous Language for Observability (WIP)](https://thebility.engineer/posts/implementation-ubiquitous-language-for-observability-wip/)
 - [Situated Software: Contextual Highlighting for Semantic Search](https://thebility.engineer/posts/situated-software-contextual-highlighting-for-semantic-search/)
 - [Concept: SLO-aware Circuit Breakers (WIP)](https://thebility.engineer/posts/concept-slo-aware-circuit-breakers-wip/)
