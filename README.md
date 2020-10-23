@@ -18,10 +18,6 @@ Previously I worked at [ServiceRocket](https://servicerocket.com), [Mindvalley](
 
 <!-- BLOG:START -->
 - [Quick Tip: SecretHub with AWS Lambda (Go) using CDK](https://thebility.engineer/posts/quick-tip-secrethub-with-aws-lambda-go-using-cdk/)
-- [Implementation: Ubiquitous Language for Observability (WIP)](https://thebility.engineer/posts/implementation-ubiquitous-language-for-observability-wip/)
-- [Situated Software: Contextual Highlighting for Semantic Search](https://thebility.engineer/posts/situated-software-contextual-highlighting-for-semantic-search/)
-- [Concept: SLO-aware Circuit Breakers (WIP)](https://thebility.engineer/posts/concept-slo-aware-circuit-breakers-wip/)
-- [Concept: EngViz in Production using eBPF (WIP)](https://thebility.engineer/posts/concept-engviz-in-production-using-ebpf/)
 - [Implementation: Bazel as a Build System (WIP)](https://thebility.engineer/posts/implementation-bazel-as-build-system/)
 - [Workstation: Embracing Portability (WIP)](https://thebility.engineer/posts/workstation-embracing-portability-wip/)
 - [Presentation: Serializing Culture by Kelsey Hightower](https://thebility.engineer/posts/presentation-serializing-culture-into-continuous-delivery-by-kelsey-hightower/)
